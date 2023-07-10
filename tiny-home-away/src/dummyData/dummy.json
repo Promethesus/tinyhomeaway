@@ -1,0 +1,28 @@
+{
+    "properties": [
+      {
+        "address": "123 Main St, Los Angeles, CA",
+        "price": 1200.00,
+        "image_url": "https://example.com/images/property1.jpg",
+        "sq_footage": 1500
+      },
+      {
+        "address": "456 Pine St, San Francisco, CA",
+        "price": 2400.00,
+        "image_url": "https://example.com/images/property2.jpg",
+        "sq_footage": 1800
+      },
+      {
+        "address": "789 Oak St, San Diego, CA",
+        "price": 1800.00,
+        "image_url": "https://example.com/images/property3.jpg",
+        "sq_footage": 1600
+      },
+      {
+        "address": "1011 Maple St, Sacramento, CA",
+        "price": 1000.00,
+        "image_url": "https://example.com/images/property4.jpg",
+        "sq_footage": 1400
+      }
+    ]
+  }
